@@ -21,6 +21,8 @@ https://github.com/ikunshare/ikun-music-mobile
 
 https://github.com/souvenp/lx-netease-music-mobile
 
+https://github.com/timeshiftsauce/CeruMusic
+
 ---
 ## 🎯 快速导航
 
