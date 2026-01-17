@@ -81,6 +81,9 @@ https://github.com/timeshiftsauce/CeruMusic
 - https://wyapi.toubiec.cn/
 - https://mscdownload.pages.dev  
 - https://jx.chksz.top/
+- https://blog.cyrui.cn/netease/
+- https://music.tmetu.cn
+- https://www.kanxizai.cn/163_music/
 
 **支持平台**：网易云音乐、QQ音乐等  
 **服务性质**：第三方解析，稳定性与安全性请自行评估
